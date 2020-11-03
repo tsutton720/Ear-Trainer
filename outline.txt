@@ -1,0 +1,21 @@
+EarApp
+    main program to run 
+    get files into array 
+    draw title screen 
+    deal with input/ output levels?? (later)
+    Interval/ Melody matcher button that take you to those screen 
+
+
+Interval 
+    draw interval screen 
+    play two notes 
+    check for answer 
+    difficulty slider (^ diff more interval available)
+    progress bar of sorts 
+
+Medlody Matcher
+    draw screen 
+    play sequence of notes 
+    listen for mic input (some kind of tuner element to check note played)
+    difficulty slider (^ diff more notes played)
+    hint button (reveles next note)
